@@ -3,8 +3,8 @@ name: plato-tripartite-soul
 description: Apply Plato's charioteer model to diagnose internal conflict and design a governance strategy for the soul.
 license: MIT
 metadata:
-  version: 1.0.4698
   author: sethmblack
+  version: 1.0.4699
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - tripartite-soul-diagnosis
